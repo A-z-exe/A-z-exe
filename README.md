@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm AmirHossein Zarei
 
-<!--
-**A-z-exe/A-z-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Security Researcher & Python Developer | Bug Bounty Hunter
 
-Here are some ideas to get you started:
+Python
+Cybersecurity
+Bug Bounty
+Android Security
+🛡️ Passionate about ethical hacking, privacy tools, and building educational security software.
+🔍 Mid-level security researcher focusing on penetration testing, Android permissions, and blockchain education.
+🏠 Working from home | Open to collaboration on security projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech stack:
+Python · Bash · Android · Git · Linux
+
+📌 Current projects:
+→ BugBountyToolkit  |  AndroidPermissionChecker  |  temp-mail-generator
+
+مخزن‌های عمومی
+4
+زبان اصلی
+Python 🐍
