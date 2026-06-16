@@ -17,6 +17,6 @@ Python · Bash · Android · Git · Linux
 → BugBountyToolkit  |  AndroidPermissionChecker  |  temp-mail-generator
 
 مخزن‌های عمومی
-4
+5
 زبان اصلی
 Python 🐍
