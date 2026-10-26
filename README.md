@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Amirhossein Zarei (A-z-exe) 👋</h1>
-<p align="center">Android developer · VPN & network tools · Kotlin / Jetpack Compose</p>
+<p align="center">Android developer · Security & automation tools · Kotlin / Python</p>
 
 ---
 
@@ -33,10 +33,23 @@
 
 ---
 
+## 🧰 Other projects & tools
+
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| [**BugBountyToolkit**](https://github.com/A-z-exe/BugBountyToolkit) | Automated security-assessment toolkit for bug bounty hunters, pentesters and security researchers. | `Python` |
+| [**temp-mail-generator**](https://github.com/A-z-exe/temp-mail-generator) | Generates temporary emails instantly with smart verification-code extraction and real-time monitoring. | `Python` |
+| [**AndroidPermissionChecker**](https://github.com/A-z-exe/AndroidPermissionChecker) | CLI tool that analyzes Android permissions from `AndroidManifest.xml`, detects dangerous permissions and calculates a risk score. | `Python` |
+| [**dns-intel**](https://github.com/A-z-exe/dns-intel) | DNS reconnaissance and asset-discovery tool for security researchers. | `Python` |
+| [**bitcoin-key-educational-tool**](https://github.com/A-z-exe/bitcoin-key-educational-tool) | Educational Bitcoin cryptography tool for learning private-key concepts, blockchain APIs and security fundamentals. | `Python` |
+
+---
+
 ## 📌 What I work on
 
 - Android apps with Kotlin & Jetpack Compose
 - VPN / proxy clients and network tooling
+- Security reconnaissance, OSINT and automation scripts
 - Clean UI, automation and privacy-focused features
 
 ## 📫 Connect
@@ -48,5 +61,5 @@
 ---
 
 <p align="center">
-  <sub>⭐ If SchnellVPN helps you, consider starring the repo — it helps others find it.</sub>
+  <sub>⭐ If any of these projects help you, consider starring them — it helps others find them.</sub>
 </p>
